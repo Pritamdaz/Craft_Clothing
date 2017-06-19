@@ -1,0 +1,11 @@
+ul.products {
+	padding:20px 140px;
+	padding-right:0px;
+	width:800px;
+	background-color:#4d4d4d;
+	}	
+ul.products li {
+    width:400px;
+    display:inline-block;
+    vertical-align:top;
+}
